@@ -46,4 +46,6 @@ JUnit tests are to be written in ```FarmTest.java``` under each ```// WRITE YOUR
 * JUnit 4
 
 ## 📸 Snapshots
+The following screenshot illustrates the farm simulation's interface:  
+&nbsp;
 !['Screenshot of the main farm simulation interface](driverSnapshot.png)
