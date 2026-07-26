@@ -18,7 +18,7 @@ Students are given a plot of farmland where they can plant, water, grow, and har
 * Harvest ripe crops and earn profit:
    * **$6** per wheat
    * **$3** per parsnip
-* A Stardew-Valley-inspired GUI written in Swing (```Driver.java```)
+* A _Stardew-Valley_-inspired GUI written in Swing (```Driver.java```)
     * A 5x5 farm grid that displays the state of each farm tile
     * Buttons to run specific farm operations
     * A sign appearing when the farm is empty
